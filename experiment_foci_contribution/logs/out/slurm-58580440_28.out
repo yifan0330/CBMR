@@ -1,0 +1,1258 @@
+4 torch.Size([228483, 4797])
+5 torch.Size([228483, 2624])
+r=63
+file saved
+r=64
+file saved
+r=65
+file saved
+r=66
+file saved
+r=67
+file saved
+r=68
+file saved
+r=69
+file saved
+r=70
+file saved
+r=71
+file saved
+r=72
+file saved
+r=73
+file saved
+r=74
+file saved
+r=75
+file saved
+r=76
+file saved
+r=77
+file saved
+r=78
+file saved
+r=79
+file saved
+r=80
+file saved
+r=81
+file saved
+r=82
+file saved
+r=83
+file saved
+r=84
+file saved
+r=85
+file saved
+r=86
+file saved
+r=87
+file saved
+r=88
+file saved
+r=89
+file saved
+r=90
+file saved
+r=91
+file saved
+r=92
+file saved
+r=93
+file saved
+r=94
+file saved
+r=95
+file saved
+r=96
+file saved
+r=97
+file saved
+r=98
+file saved
+r=99
+file saved
+7.5 torch.Size([228483, 920])
+r=2
+file saved
+r=3
+file saved
+r=4
+file saved
+r=5
+file saved
+r=6
+file saved
+r=7
+file saved
+r=8
+file saved
+r=9
+file saved
+r=10
+file saved
+r=11
+file saved
+r=12
+file saved
+r=13
+file saved
+r=14
+file saved
+r=15
+file saved
+r=16
+file saved
+r=17
+file saved
+r=18
+file saved
+r=19
+file saved
+r=20
+file saved
+r=21
+file saved
+r=22
+file saved
+r=23
+file saved
+r=24
+file saved
+r=25
+file saved
+r=26
+file saved
+r=27
+file saved
+r=28
+file saved
+r=29
+file saved
+r=30
+file saved
+r=31
+file saved
+r=32
+file saved
+r=33
+file saved
+r=34
+file saved
+r=35
+file saved
+r=36
+file saved
+r=37
+file saved
+r=38
+file saved
+r=39
+file saved
+r=40
+file saved
+r=41
+file saved
+r=42
+file saved
+r=43
+file saved
+r=44
+file saved
+r=45
+file saved
+r=46
+file saved
+r=47
+file saved
+r=48
+file saved
+r=49
+file saved
+r=50
+file saved
+r=51
+file saved
+r=52
+file saved
+r=53
+file saved
+r=54
+file saved
+r=55
+file saved
+r=56
+file saved
+r=57
+file saved
+r=58
+file saved
+r=59
+file saved
+r=60
+file saved
+r=61
+file saved
+r=62
+file saved
+r=63
+file saved
+r=64
+file saved
+r=65
+file saved
+r=66
+file saved
+r=67
+file saved
+r=68
+file saved
+r=69
+file saved
+r=70
+file saved
+r=71
+file saved
+r=72
+file saved
+r=73
+file saved
+r=74
+file saved
+r=75
+file saved
+r=76
+file saved
+r=77
+file saved
+r=78
+file saved
+r=79
+file saved
+r=80
+file saved
+r=81
+file saved
+r=82
+file saved
+r=83
+file saved
+r=84
+file saved
+r=85
+file saved
+r=86
+file saved
+r=87
+file saved
+r=88
+file saved
+r=89
+file saved
+r=90
+file saved
+r=91
+file saved
+r=92
+file saved
+r=93
+file saved
+r=94
+file saved
+r=95
+file saved
+r=96
+file saved
+r=97
+file saved
+r=98
+file saved
+r=99
+file saved
+10 torch.Size([228483, 456])
+r=2
+file saved
+r=3
+file saved
+r=4
+file saved
+r=5
+file saved
+r=6
+file saved
+r=7
+file saved
+r=8
+file saved
+r=9
+file saved
+r=10
+file saved
+r=11
+file saved
+r=12
+file saved
+r=13
+file saved
+r=14
+file saved
+r=15
+file saved
+r=16
+file saved
+r=17
+file saved
+r=18
+file saved
+r=19
+file saved
+r=20
+file saved
+r=21
+file saved
+r=22
+file saved
+r=23
+file saved
+r=24
+file saved
+r=25
+file saved
+r=26
+file saved
+r=27
+file saved
+r=28
+file saved
+r=29
+file saved
+r=30
+file saved
+r=31
+file saved
+r=32
+file saved
+r=33
+file saved
+r=34
+file saved
+r=35
+file saved
+r=36
+file saved
+r=37
+file saved
+r=38
+file saved
+r=39
+file saved
+r=40
+file saved
+r=41
+file saved
+r=42
+file saved
+r=43
+file saved
+r=44
+file saved
+r=45
+file saved
+r=46
+file saved
+r=47
+file saved
+r=48
+file saved
+r=49
+file saved
+r=50
+file saved
+r=51
+file saved
+r=52
+file saved
+r=53
+file saved
+r=54
+file saved
+r=55
+file saved
+r=56
+file saved
+r=57
+file saved
+r=58
+file saved
+r=59
+file saved
+r=60
+file saved
+r=61
+file saved
+r=62
+file saved
+r=63
+file saved
+r=64
+file saved
+r=65
+file saved
+r=66
+file saved
+r=67
+file saved
+r=68
+file saved
+r=69
+file saved
+r=70
+file saved
+r=71
+file saved
+r=72
+file saved
+r=73
+file saved
+r=74
+file saved
+r=75
+file saved
+r=76
+file saved
+r=77
+file saved
+r=78
+file saved
+r=79
+file saved
+r=80
+file saved
+r=81
+file saved
+r=82
+file saved
+r=83
+file saved
+r=84
+file saved
+r=85
+file saved
+r=86
+file saved
+r=87
+file saved
+r=88
+file saved
+r=89
+file saved
+r=90
+file saved
+r=91
+file saved
+r=92
+file saved
+r=93
+file saved
+r=94
+file saved
+r=95
+file saved
+r=96
+file saved
+r=97
+file saved
+r=98
+file saved
+r=99
+file saved
+15 torch.Size([228483, 197])
+r=2
+file saved
+r=3
+file saved
+r=4
+file saved
+r=5
+file saved
+r=6
+file saved
+r=7
+file saved
+r=8
+file saved
+r=9
+file saved
+r=10
+file saved
+r=11
+file saved
+r=12
+file saved
+r=13
+file saved
+r=14
+file saved
+r=15
+file saved
+r=16
+file saved
+r=17
+file saved
+r=18
+file saved
+r=19
+file saved
+r=20
+file saved
+r=21
+file saved
+r=22
+file saved
+r=23
+file saved
+r=24
+file saved
+r=25
+file saved
+r=26
+file saved
+r=27
+file saved
+r=28
+file saved
+r=29
+file saved
+r=30
+file saved
+r=31
+file saved
+r=32
+file saved
+r=33
+file saved
+r=34
+file saved
+r=35
+file saved
+r=36
+file saved
+r=37
+file saved
+r=38
+file saved
+r=39
+file saved
+r=40
+file saved
+r=41
+file saved
+r=42
+file saved
+r=43
+file saved
+r=44
+file saved
+r=45
+file saved
+r=46
+file saved
+r=47
+file saved
+r=48
+file saved
+r=49
+file saved
+r=50
+file saved
+r=51
+file saved
+r=52
+file saved
+r=53
+file saved
+r=54
+file saved
+r=55
+file saved
+r=56
+file saved
+r=57
+file saved
+r=58
+file saved
+r=59
+file saved
+r=60
+file saved
+r=61
+file saved
+r=62
+file saved
+r=63
+file saved
+r=64
+file saved
+r=65
+file saved
+r=66
+file saved
+r=67
+file saved
+r=68
+file saved
+r=69
+file saved
+r=70
+file saved
+r=71
+file saved
+r=72
+file saved
+r=73
+file saved
+r=74
+file saved
+r=75
+file saved
+r=76
+file saved
+r=77
+file saved
+r=78
+file saved
+r=79
+file saved
+r=80
+file saved
+r=81
+file saved
+r=82
+file saved
+r=83
+file saved
+r=84
+file saved
+r=85
+file saved
+r=86
+file saved
+r=87
+file saved
+r=88
+file saved
+r=89
+file saved
+r=90
+file saved
+r=91
+file saved
+r=92
+file saved
+r=93
+file saved
+r=94
+file saved
+r=95
+file saved
+r=96
+file saved
+r=97
+file saved
+r=98
+file saved
+r=99
+file saved
+20 torch.Size([228483, 123])
+r=2
+file saved
+r=3
+file saved
+r=4
+file saved
+r=5
+file saved
+r=6
+file saved
+r=7
+file saved
+r=8
+file saved
+r=9
+file saved
+r=10
+file saved
+r=11
+file saved
+r=12
+file saved
+r=13
+file saved
+r=14
+file saved
+r=15
+file saved
+r=16
+file saved
+r=17
+file saved
+r=18
+file saved
+r=19
+file saved
+r=20
+file saved
+r=21
+file saved
+r=22
+file saved
+r=23
+file saved
+r=24
+file saved
+r=25
+file saved
+r=26
+file saved
+r=27
+file saved
+r=28
+file saved
+r=29
+file saved
+r=30
+file saved
+r=31
+file saved
+r=32
+file saved
+r=33
+file saved
+r=34
+file saved
+r=35
+file saved
+r=36
+file saved
+r=37
+file saved
+r=38
+file saved
+r=39
+file saved
+r=40
+file saved
+r=41
+file saved
+r=42
+file saved
+r=43
+file saved
+r=44
+file saved
+r=45
+file saved
+r=46
+file saved
+r=47
+file saved
+r=48
+file saved
+r=49
+file saved
+r=50
+file saved
+r=51
+file saved
+r=52
+file saved
+r=53
+file saved
+r=54
+file saved
+r=55
+file saved
+r=56
+file saved
+r=57
+file saved
+r=58
+file saved
+r=59
+file saved
+r=60
+file saved
+r=61
+file saved
+r=62
+file saved
+r=63
+file saved
+r=64
+file saved
+r=65
+file saved
+r=66
+file saved
+r=67
+file saved
+r=68
+file saved
+r=69
+file saved
+r=70
+file saved
+r=71
+file saved
+r=72
+file saved
+r=73
+file saved
+r=74
+file saved
+r=75
+file saved
+r=76
+file saved
+r=77
+file saved
+r=78
+file saved
+r=79
+file saved
+r=80
+file saved
+r=81
+file saved
+r=82
+file saved
+r=83
+file saved
+r=84
+file saved
+r=85
+file saved
+r=86
+file saved
+r=87
+file saved
+r=88
+file saved
+r=89
+file saved
+r=90
+file saved
+r=91
+file saved
+r=92
+file saved
+r=93
+file saved
+r=94
+file saved
+r=95
+file saved
+r=96
+file saved
+r=97
+file saved
+r=98
+file saved
+r=99
+file saved
+30 torch.Size([228483, 74])
+r=2
+file saved
+r=3
+file saved
+r=4
+file saved
+r=5
+file saved
+r=6
+file saved
+r=7
+file saved
+r=8
+file saved
+r=9
+file saved
+r=10
+file saved
+r=11
+file saved
+r=12
+file saved
+r=13
+file saved
+r=14
+file saved
+r=15
+file saved
+r=16
+file saved
+r=17
+file saved
+r=18
+file saved
+r=19
+file saved
+r=20
+file saved
+r=21
+file saved
+r=22
+file saved
+r=23
+file saved
+r=24
+file saved
+r=25
+file saved
+r=26
+file saved
+r=27
+file saved
+r=28
+file saved
+r=29
+file saved
+r=30
+file saved
+r=31
+file saved
+r=32
+file saved
+r=33
+file saved
+r=34
+file saved
+r=35
+file saved
+r=36
+file saved
+r=37
+file saved
+r=38
+file saved
+r=39
+file saved
+r=40
+file saved
+r=41
+file saved
+r=42
+file saved
+r=43
+file saved
+r=44
+file saved
+r=45
+file saved
+r=46
+file saved
+r=47
+file saved
+r=48
+file saved
+r=49
+file saved
+r=50
+file saved
+r=51
+file saved
+r=52
+file saved
+r=53
+file saved
+r=54
+file saved
+r=55
+file saved
+r=56
+file saved
+r=57
+file saved
+r=58
+file saved
+r=59
+file saved
+r=60
+file saved
+r=61
+file saved
+r=62
+file saved
+r=63
+file saved
+r=64
+file saved
+r=65
+file saved
+r=66
+file saved
+r=67
+file saved
+r=68
+file saved
+r=69
+file saved
+r=70
+file saved
+r=71
+file saved
+r=72
+file saved
+r=73
+file saved
+r=74
+file saved
+r=75
+file saved
+r=76
+file saved
+r=77
+file saved
+r=78
+file saved
+r=79
+file saved
+r=80
+file saved
+r=81
+file saved
+r=82
+file saved
+r=83
+file saved
+r=84
+file saved
+r=85
+file saved
+r=86
+file saved
+r=87
+file saved
+r=88
+file saved
+r=89
+file saved
+r=90
+file saved
+r=91
+file saved
+r=92
+file saved
+r=93
+file saved
+r=94
+file saved
+r=95
+file saved
+r=96
+file saved
+r=97
+file saved
+r=98
+file saved
+r=99
+file saved
+40 torch.Size([228483, 56])
+r=2
+file saved
+r=3
+file saved
+r=4
+file saved
+r=5
+file saved
+r=6
+file saved
+r=7
+file saved
+r=8
+file saved
+r=9
+file saved
+r=10
+file saved
+r=11
+file saved
+r=12
+file saved
+r=13
+file saved
+r=14
+file saved
+r=15
+file saved
+r=16
+file saved
+r=17
+file saved
+r=18
+file saved
+r=19
+file saved
+r=20
+file saved
+r=21
+file saved
+r=22
+file saved
+r=23
+file saved
+r=24
+file saved
+r=25
+file saved
+r=26
+file saved
+r=27
+file saved
+r=28
+file saved
+r=29
+file saved
+r=30
+file saved
+r=31
+file saved
+r=32
+file saved
+r=33
+file saved
+r=34
+file saved
+r=35
+file saved
+r=36
+file saved
+r=37
+file saved
+r=38
+file saved
+r=39
+file saved
+r=40
+file saved
+r=41
+file saved
+r=42
+file saved
+r=43
+file saved
+r=44
+file saved
+r=45
+file saved
+r=46
+file saved
+r=47
+file saved
+r=48
+file saved
+r=49
+file saved
+r=50
+file saved
+r=51
+file saved
+r=52
+file saved
+r=53
+file saved
+r=54
+file saved
+r=55
+file saved
+r=56
+file saved
+r=57
+file saved
+r=58
+file saved
+r=59
+file saved
+r=60
+file saved
+r=61
+file saved
+r=62
+file saved
+r=63
+file saved
+r=64
+file saved
+r=65
+file saved
+r=66
+file saved
+r=67
+file saved
+r=68
+file saved
+r=69
+file saved
+r=70
+file saved
+r=71
+file saved
+r=72
+file saved
+r=73
+file saved
+r=74
+file saved
+r=75
+file saved
+r=76
+file saved
+r=77
+file saved
+r=78
+file saved
+r=79
+file saved
+r=80
+file saved
+r=81
+file saved
+r=82
+file saved
+r=83
+file saved
+r=84
+file saved
+r=85
+file saved
+r=86
+file saved
+r=87
+file saved
+r=88
+file saved
+r=89
+file saved
+r=90
+file saved
+r=91
+file saved
+r=92
+file saved
+r=93
+file saved
+r=94
+file saved
+r=95
+file saved
+r=96
+file saved
+r=97
+file saved
+r=98
+file saved
+r=99
+file saved

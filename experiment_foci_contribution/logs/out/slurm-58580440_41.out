@@ -1,0 +1,8 @@
+4 torch.Size([228483, 4797])
+5 torch.Size([228483, 2624])
+7.5 torch.Size([228483, 920])
+10 torch.Size([228483, 456])
+15 torch.Size([228483, 197])
+20 torch.Size([228483, 123])
+30 torch.Size([228483, 74])
+40 torch.Size([228483, 56])

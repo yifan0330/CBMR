@@ -1,0 +1,1877 @@
+4 torch.Size([228483, 4797])
+5 torch.Size([228483, 2624])
+r=77
+cuda
+file saved
+r=78
+cuda
+file saved
+r=79
+cuda
+file saved
+r=80
+cuda
+file saved
+r=81
+cuda
+file saved
+r=82
+cuda
+file saved
+r=83
+cuda
+file saved
+r=84
+cuda
+file saved
+r=85
+cuda
+file saved
+r=86
+cuda
+file saved
+r=87
+cuda
+file saved
+r=88
+cuda
+file saved
+r=89
+cuda
+file saved
+r=90
+cuda
+file saved
+r=91
+cuda
+file saved
+r=92
+cuda
+file saved
+r=93
+cuda
+file saved
+r=94
+cuda
+file saved
+r=95
+cuda
+file saved
+r=96
+cuda
+file saved
+r=97
+cuda
+file saved
+r=98
+cuda
+file saved
+r=99
+cuda
+file saved
+7.5 torch.Size([228483, 920])
+r=0
+cuda
+file saved
+r=1
+cuda
+file saved
+r=2
+cuda
+file saved
+r=3
+cuda
+file saved
+r=4
+cuda
+file saved
+r=5
+cuda
+file saved
+r=6
+cuda
+file saved
+r=7
+cuda
+file saved
+r=8
+cuda
+file saved
+r=9
+cuda
+file saved
+r=10
+cuda
+file saved
+r=11
+cuda
+file saved
+r=12
+cuda
+file saved
+r=13
+cuda
+file saved
+r=14
+cuda
+file saved
+r=15
+cuda
+file saved
+r=16
+cuda
+file saved
+r=17
+cuda
+file saved
+r=18
+cuda
+file saved
+r=19
+cuda
+file saved
+r=20
+cuda
+file saved
+r=21
+cuda
+file saved
+r=22
+cuda
+file saved
+r=23
+cuda
+file saved
+r=24
+cuda
+file saved
+r=25
+cuda
+file saved
+r=26
+cuda
+file saved
+r=27
+cuda
+file saved
+r=28
+cuda
+file saved
+r=29
+cuda
+file saved
+r=30
+cuda
+file saved
+r=31
+cuda
+file saved
+r=32
+cuda
+file saved
+r=33
+cuda
+file saved
+r=34
+cuda
+file saved
+r=35
+cuda
+file saved
+r=36
+cuda
+file saved
+r=37
+cuda
+file saved
+r=38
+cuda
+file saved
+r=39
+cuda
+file saved
+r=40
+cuda
+file saved
+r=41
+cuda
+file saved
+r=42
+cuda
+file saved
+r=43
+cuda
+file saved
+r=44
+cuda
+file saved
+r=45
+cuda
+file saved
+r=46
+cuda
+file saved
+r=47
+cuda
+file saved
+r=48
+cuda
+file saved
+r=49
+cuda
+file saved
+r=50
+cuda
+file saved
+r=51
+cuda
+file saved
+r=52
+cuda
+file saved
+r=53
+cuda
+file saved
+r=54
+cuda
+file saved
+r=55
+cuda
+file saved
+r=56
+cuda
+file saved
+r=57
+cuda
+file saved
+r=58
+cuda
+file saved
+r=59
+cuda
+file saved
+r=60
+cuda
+file saved
+r=61
+cuda
+file saved
+r=62
+cuda
+file saved
+r=63
+cuda
+file saved
+r=64
+cuda
+file saved
+r=65
+cuda
+file saved
+r=66
+cuda
+file saved
+r=67
+cuda
+file saved
+r=68
+cuda
+file saved
+r=69
+cuda
+file saved
+r=70
+cuda
+file saved
+r=71
+cuda
+file saved
+r=72
+cuda
+file saved
+r=73
+cuda
+file saved
+r=74
+cuda
+file saved
+r=75
+cuda
+file saved
+r=76
+cuda
+file saved
+r=77
+cuda
+file saved
+r=78
+cuda
+file saved
+r=79
+cuda
+file saved
+r=80
+cuda
+file saved
+r=81
+cuda
+file saved
+r=82
+cuda
+file saved
+r=83
+cuda
+file saved
+r=84
+cuda
+file saved
+r=85
+cuda
+file saved
+r=86
+cuda
+file saved
+r=87
+cuda
+file saved
+r=88
+cuda
+file saved
+r=89
+cuda
+file saved
+r=90
+cuda
+file saved
+r=91
+cuda
+file saved
+r=92
+cuda
+file saved
+r=93
+cuda
+file saved
+r=94
+cuda
+file saved
+r=95
+cuda
+file saved
+r=96
+cuda
+file saved
+r=97
+cuda
+file saved
+r=98
+cuda
+file saved
+r=99
+cuda
+file saved
+10 torch.Size([228483, 456])
+r=0
+cuda
+file saved
+r=1
+cuda
+file saved
+r=2
+cuda
+file saved
+r=3
+cuda
+file saved
+r=4
+cuda
+file saved
+r=5
+cuda
+file saved
+r=6
+cuda
+file saved
+r=7
+cuda
+file saved
+r=8
+cuda
+file saved
+r=9
+cuda
+file saved
+r=10
+cuda
+file saved
+r=11
+cuda
+file saved
+r=12
+cuda
+file saved
+r=13
+cuda
+file saved
+r=14
+cuda
+file saved
+r=15
+cuda
+file saved
+r=16
+cuda
+file saved
+r=17
+cuda
+file saved
+r=18
+cuda
+file saved
+r=19
+cuda
+file saved
+r=20
+cuda
+file saved
+r=21
+cuda
+file saved
+r=22
+cuda
+file saved
+r=23
+cuda
+file saved
+r=24
+cuda
+file saved
+r=25
+cuda
+file saved
+r=26
+cuda
+file saved
+r=27
+cuda
+file saved
+r=28
+cuda
+file saved
+r=29
+cuda
+file saved
+r=30
+cuda
+file saved
+r=31
+cuda
+file saved
+r=32
+cuda
+file saved
+r=33
+cuda
+file saved
+r=34
+cuda
+file saved
+r=35
+cuda
+file saved
+r=36
+cuda
+file saved
+r=37
+cuda
+file saved
+r=38
+cuda
+file saved
+r=39
+cuda
+file saved
+r=40
+cuda
+file saved
+r=41
+cuda
+file saved
+r=42
+cuda
+file saved
+r=43
+cuda
+file saved
+r=44
+cuda
+file saved
+r=45
+cuda
+file saved
+r=46
+cuda
+file saved
+r=47
+cuda
+file saved
+r=48
+cuda
+file saved
+r=49
+cuda
+file saved
+r=50
+cuda
+file saved
+r=51
+cuda
+file saved
+r=52
+cuda
+file saved
+r=53
+cuda
+file saved
+r=54
+cuda
+file saved
+r=55
+cuda
+file saved
+r=56
+cuda
+file saved
+r=57
+cuda
+file saved
+r=58
+cuda
+file saved
+r=59
+cuda
+file saved
+r=60
+cuda
+file saved
+r=61
+cuda
+file saved
+r=62
+cuda
+file saved
+r=63
+cuda
+file saved
+r=64
+cuda
+file saved
+r=65
+cuda
+file saved
+r=66
+cuda
+file saved
+r=67
+cuda
+file saved
+r=68
+cuda
+file saved
+r=69
+cuda
+file saved
+r=70
+cuda
+file saved
+r=71
+cuda
+file saved
+r=72
+cuda
+file saved
+r=73
+cuda
+file saved
+r=74
+cuda
+file saved
+r=75
+cuda
+file saved
+r=76
+cuda
+file saved
+r=77
+cuda
+file saved
+r=78
+cuda
+file saved
+r=79
+cuda
+file saved
+r=80
+cuda
+file saved
+r=81
+cuda
+file saved
+r=82
+cuda
+file saved
+r=83
+cuda
+file saved
+r=84
+cuda
+file saved
+r=85
+cuda
+file saved
+r=86
+cuda
+file saved
+r=87
+cuda
+file saved
+r=88
+cuda
+file saved
+r=89
+cuda
+file saved
+r=90
+cuda
+file saved
+r=91
+cuda
+file saved
+r=92
+cuda
+file saved
+r=93
+cuda
+file saved
+r=94
+cuda
+file saved
+r=95
+cuda
+file saved
+r=96
+cuda
+file saved
+r=97
+cuda
+file saved
+r=98
+cuda
+file saved
+r=99
+cuda
+file saved
+15 torch.Size([228483, 197])
+r=0
+cuda
+file saved
+r=1
+cuda
+file saved
+r=2
+cuda
+file saved
+r=3
+cuda
+file saved
+r=4
+cuda
+file saved
+r=5
+cuda
+file saved
+r=6
+cuda
+file saved
+r=7
+cuda
+file saved
+r=8
+cuda
+file saved
+r=9
+cuda
+file saved
+r=10
+cuda
+file saved
+r=11
+cuda
+file saved
+r=12
+cuda
+file saved
+r=13
+cuda
+file saved
+r=14
+cuda
+file saved
+r=15
+cuda
+file saved
+r=16
+cuda
+file saved
+r=17
+cuda
+file saved
+r=18
+cuda
+file saved
+r=19
+cuda
+file saved
+r=20
+cuda
+file saved
+r=21
+cuda
+file saved
+r=22
+cuda
+file saved
+r=23
+cuda
+file saved
+r=24
+cuda
+file saved
+r=25
+cuda
+file saved
+r=26
+cuda
+file saved
+r=27
+cuda
+file saved
+r=28
+cuda
+file saved
+r=29
+cuda
+file saved
+r=30
+cuda
+file saved
+r=31
+cuda
+file saved
+r=32
+cuda
+file saved
+r=33
+cuda
+file saved
+r=34
+cuda
+file saved
+r=35
+cuda
+file saved
+r=36
+cuda
+file saved
+r=37
+cuda
+file saved
+r=38
+cuda
+file saved
+r=39
+cuda
+file saved
+r=40
+cuda
+file saved
+r=41
+cuda
+file saved
+r=42
+cuda
+file saved
+r=43
+cuda
+file saved
+r=44
+cuda
+file saved
+r=45
+cuda
+file saved
+r=46
+cuda
+file saved
+r=47
+cuda
+file saved
+r=48
+cuda
+file saved
+r=49
+cuda
+file saved
+r=50
+cuda
+file saved
+r=51
+cuda
+file saved
+r=52
+cuda
+file saved
+r=53
+cuda
+file saved
+r=54
+cuda
+file saved
+r=55
+cuda
+file saved
+r=56
+cuda
+file saved
+r=57
+cuda
+file saved
+r=58
+cuda
+file saved
+r=59
+cuda
+file saved
+r=60
+cuda
+file saved
+r=61
+cuda
+file saved
+r=62
+cuda
+file saved
+r=63
+cuda
+file saved
+r=64
+cuda
+file saved
+r=65
+cuda
+file saved
+r=66
+cuda
+file saved
+r=67
+cuda
+file saved
+r=68
+cuda
+file saved
+r=69
+cuda
+file saved
+r=70
+cuda
+file saved
+r=71
+cuda
+file saved
+r=72
+cuda
+file saved
+r=73
+cuda
+file saved
+r=74
+cuda
+file saved
+r=75
+cuda
+file saved
+r=76
+cuda
+file saved
+r=77
+cuda
+file saved
+r=78
+cuda
+file saved
+r=79
+cuda
+file saved
+r=80
+cuda
+file saved
+r=81
+cuda
+file saved
+r=82
+cuda
+file saved
+r=83
+cuda
+file saved
+r=84
+cuda
+file saved
+r=85
+cuda
+file saved
+r=86
+cuda
+file saved
+r=87
+cuda
+file saved
+r=88
+cuda
+file saved
+r=89
+cuda
+file saved
+r=90
+cuda
+file saved
+r=91
+cuda
+file saved
+r=92
+cuda
+file saved
+r=93
+cuda
+file saved
+r=94
+cuda
+file saved
+r=95
+cuda
+file saved
+r=96
+cuda
+file saved
+r=97
+cuda
+file saved
+r=98
+cuda
+file saved
+r=99
+cuda
+file saved
+20 torch.Size([228483, 123])
+r=0
+cuda
+file saved
+r=1
+cuda
+file saved
+r=2
+cuda
+file saved
+r=3
+cuda
+file saved
+r=4
+cuda
+file saved
+r=5
+cuda
+file saved
+r=6
+cuda
+file saved
+r=7
+cuda
+file saved
+r=8
+cuda
+file saved
+r=9
+cuda
+file saved
+r=10
+cuda
+file saved
+r=11
+cuda
+file saved
+r=12
+cuda
+file saved
+r=13
+cuda
+file saved
+r=14
+cuda
+file saved
+r=15
+cuda
+file saved
+r=16
+cuda
+file saved
+r=17
+cuda
+file saved
+r=18
+cuda
+file saved
+r=19
+cuda
+file saved
+r=20
+cuda
+file saved
+r=21
+cuda
+file saved
+r=22
+cuda
+file saved
+r=23
+cuda
+file saved
+r=24
+cuda
+file saved
+r=25
+cuda
+file saved
+r=26
+cuda
+file saved
+r=27
+cuda
+file saved
+r=28
+cuda
+file saved
+r=29
+cuda
+file saved
+r=30
+cuda
+file saved
+r=31
+cuda
+file saved
+r=32
+cuda
+file saved
+r=33
+cuda
+file saved
+r=34
+cuda
+file saved
+r=35
+cuda
+file saved
+r=36
+cuda
+file saved
+r=37
+cuda
+file saved
+r=38
+cuda
+file saved
+r=39
+cuda
+file saved
+r=40
+cuda
+file saved
+r=41
+cuda
+file saved
+r=42
+cuda
+file saved
+r=43
+cuda
+file saved
+r=44
+cuda
+file saved
+r=45
+cuda
+file saved
+r=46
+cuda
+file saved
+r=47
+cuda
+file saved
+r=48
+cuda
+file saved
+r=49
+cuda
+file saved
+r=50
+cuda
+file saved
+r=51
+cuda
+file saved
+r=52
+cuda
+file saved
+r=53
+cuda
+file saved
+r=54
+cuda
+file saved
+r=55
+cuda
+file saved
+r=56
+cuda
+file saved
+r=57
+cuda
+file saved
+r=58
+cuda
+file saved
+r=59
+cuda
+file saved
+r=60
+cuda
+file saved
+r=61
+cuda
+file saved
+r=62
+cuda
+file saved
+r=63
+cuda
+file saved
+r=64
+cuda
+file saved
+r=65
+cuda
+file saved
+r=66
+cuda
+file saved
+r=67
+cuda
+file saved
+r=68
+cuda
+file saved
+r=69
+cuda
+file saved
+r=70
+cuda
+file saved
+r=71
+cuda
+file saved
+r=72
+cuda
+file saved
+r=73
+cuda
+file saved
+r=74
+cuda
+file saved
+r=75
+cuda
+file saved
+r=76
+cuda
+file saved
+r=77
+cuda
+file saved
+r=78
+cuda
+file saved
+r=79
+cuda
+file saved
+r=80
+cuda
+file saved
+r=81
+cuda
+file saved
+r=82
+cuda
+file saved
+r=83
+cuda
+file saved
+r=84
+cuda
+file saved
+r=85
+cuda
+file saved
+r=86
+cuda
+file saved
+r=87
+cuda
+file saved
+r=88
+cuda
+file saved
+r=89
+cuda
+file saved
+r=90
+cuda
+file saved
+r=91
+cuda
+file saved
+r=92
+cuda
+file saved
+r=93
+cuda
+file saved
+r=94
+cuda
+file saved
+r=95
+cuda
+file saved
+r=96
+cuda
+file saved
+r=97
+cuda
+file saved
+r=98
+cuda
+file saved
+r=99
+cuda
+file saved
+30 torch.Size([228483, 74])
+r=0
+cuda
+file saved
+r=1
+cuda
+file saved
+r=2
+cuda
+file saved
+r=3
+cuda
+file saved
+r=4
+cuda
+file saved
+r=5
+cuda
+file saved
+r=6
+cuda
+file saved
+r=7
+cuda
+file saved
+r=8
+cuda
+file saved
+r=9
+cuda
+file saved
+r=10
+cuda
+file saved
+r=11
+cuda
+file saved
+r=12
+cuda
+file saved
+r=13
+cuda
+file saved
+r=14
+cuda
+file saved
+r=15
+cuda
+file saved
+r=16
+cuda
+file saved
+r=17
+cuda
+file saved
+r=18
+cuda
+file saved
+r=19
+cuda
+file saved
+r=20
+cuda
+file saved
+r=21
+cuda
+file saved
+r=22
+cuda
+file saved
+r=23
+cuda
+file saved
+r=24
+cuda
+file saved
+r=25
+cuda
+file saved
+r=26
+cuda
+file saved
+r=27
+cuda
+file saved
+r=28
+cuda
+file saved
+r=29
+cuda
+file saved
+r=30
+cuda
+file saved
+r=31
+cuda
+file saved
+r=32
+cuda
+file saved
+r=33
+cuda
+file saved
+r=34
+cuda
+file saved
+r=35
+cuda
+file saved
+r=36
+cuda
+file saved
+r=37
+cuda
+file saved
+r=38
+cuda
+file saved
+r=39
+cuda
+file saved
+r=40
+cuda
+file saved
+r=41
+cuda
+file saved
+r=42
+cuda
+file saved
+r=43
+cuda
+file saved
+r=44
+cuda
+file saved
+r=45
+cuda
+file saved
+r=46
+cuda
+file saved
+r=47
+cuda
+file saved
+r=48
+cuda
+file saved
+r=49
+cuda
+file saved
+r=50
+cuda
+file saved
+r=51
+cuda
+file saved
+r=52
+cuda
+file saved
+r=53
+cuda
+file saved
+r=54
+cuda
+file saved
+r=55
+cuda
+file saved
+r=56
+cuda
+file saved
+r=57
+cuda
+file saved
+r=58
+cuda
+file saved
+r=59
+cuda
+file saved
+r=60
+cuda
+file saved
+r=61
+cuda
+file saved
+r=62
+cuda
+file saved
+r=63
+cuda
+file saved
+r=64
+cuda
+file saved
+r=65
+cuda
+file saved
+r=66
+cuda
+file saved
+r=67
+cuda
+file saved
+r=68
+cuda
+file saved
+r=69
+cuda
+file saved
+r=70
+cuda
+file saved
+r=71
+cuda
+file saved
+r=72
+cuda
+file saved
+r=73
+cuda
+file saved
+r=74
+cuda
+file saved
+r=75
+cuda
+file saved
+r=76
+cuda
+file saved
+r=77
+cuda
+file saved
+r=78
+cuda
+file saved
+r=79
+cuda
+file saved
+r=80
+cuda
+file saved
+r=81
+cuda
+file saved
+r=82
+cuda
+file saved
+r=83
+cuda
+file saved
+r=84
+cuda
+file saved
+r=85
+cuda
+file saved
+r=86
+cuda
+file saved
+r=87
+cuda
+file saved
+r=88
+cuda
+file saved
+r=89
+cuda
+file saved
+r=90
+cuda
+file saved
+r=91
+cuda
+file saved
+r=92
+cuda
+file saved
+r=93
+cuda
+file saved
+r=94
+cuda
+file saved
+r=95
+cuda
+file saved
+r=96
+cuda
+file saved
+r=97
+cuda
+file saved
+r=98
+cuda
+file saved
+r=99
+cuda
+file saved
+40 torch.Size([228483, 56])
+r=0
+cuda
+file saved
+r=1
+cuda
+file saved
+r=2
+cuda
+file saved
+r=3
+cuda
+file saved
+r=4
+cuda
+file saved
+r=5
+cuda
+file saved
+r=6
+cuda
+file saved
+r=7
+cuda
+file saved
+r=8
+cuda
+file saved
+r=9
+cuda
+file saved
+r=10
+cuda
+file saved
+r=11
+cuda
+file saved
+r=12
+cuda
+file saved
+r=13
+cuda
+file saved
+r=14
+cuda
+file saved
+r=15
+cuda
+file saved
+r=16
+cuda
+file saved
+r=17
+cuda
+file saved
+r=18
+cuda
+file saved
+r=19
+cuda
+file saved
+r=20
+cuda
+file saved
+r=21
+cuda
+file saved
+r=22
+cuda
+file saved
+r=23
+cuda
+file saved
+r=24
+cuda
+file saved
+r=25
+cuda
+file saved
+r=26
+cuda
+file saved
+r=27
+cuda
+file saved
+r=28
+cuda
+file saved
+r=29
+cuda
+file saved
+r=30
+cuda
+file saved
+r=31
+cuda
+file saved
+r=32
+cuda
+file saved
+r=33
+cuda
+file saved
+r=34
+cuda
+file saved
+r=35
+cuda
+file saved
+r=36
+cuda
+file saved
+r=37
+cuda
+file saved
+r=38
+cuda
+file saved
+r=39
+cuda
+file saved
+r=40
+cuda
+file saved
+r=41
+cuda
+file saved
+r=42
+cuda
+file saved
+r=43
+cuda
+file saved
+r=44
+cuda
+file saved
+r=45
+cuda
+file saved
+r=46
+cuda
+file saved
+r=47
+cuda
+file saved
+r=48
+cuda
+file saved
+r=49
+cuda
+file saved
+r=50
+cuda
+file saved
+r=51
+cuda
+file saved
+r=52
+cuda
+file saved
+r=53
+cuda
+file saved
+r=54
+cuda
+file saved
+r=55
+cuda
+file saved
+r=56
+cuda
+file saved
+r=57
+cuda
+file saved
+r=58
+cuda
+file saved
+r=59
+cuda
+file saved
+r=60
+cuda
+file saved
+r=61
+cuda
+file saved
+r=62
+cuda
+file saved
+r=63
+cuda
+file saved
+r=64
+cuda
+file saved
+r=65
+cuda
+file saved
+r=66
+cuda
+file saved
+r=67
+cuda
+file saved
+r=68
+cuda
+file saved
+r=69
+cuda
+file saved
+r=70
+cuda
+file saved
+r=71
+cuda
+file saved
+r=72
+cuda
+file saved
+r=73
+cuda
+file saved
+r=74
+cuda
+file saved
+r=75
+cuda
+file saved
+r=76
+cuda
+file saved
+r=77
+cuda
+file saved
+r=78
+cuda
+file saved
+r=79
+cuda
+file saved
+r=80
+cuda
+file saved
+r=81
+cuda
+file saved
+r=82
+cuda
+file saved
+r=83
+cuda
+file saved
+r=84
+cuda
+file saved
+r=85
+cuda
+file saved
+r=86
+cuda
+file saved
+r=87
+cuda
+file saved
+r=88
+cuda
+file saved
+r=89
+cuda
+file saved
+r=90
+cuda
+file saved
+r=91
+cuda
+file saved
+r=92
+cuda
+file saved
+r=93
+cuda
+file saved
+r=94
+cuda
+file saved
+r=95
+cuda
+file saved
+r=96
+cuda
+file saved
+r=97
+cuda
+file saved
+r=98
+cuda
+file saved
+r=99
+cuda
+file saved

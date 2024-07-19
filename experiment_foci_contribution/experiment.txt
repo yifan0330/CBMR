@@ -1,0 +1,50 @@
+run.py --gpus=0 --dataset=1_Social_Processing --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=2_PTSD --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=3_Substance_Use --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=4_Dementia --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=5_Cue_Reactivity --model=NB --spline_degree=3 --half_interval_shift=False
+
+run.py --gpus=0 --dataset=6_Emotion_Regulation --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=7_Decision_Making --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=8_Reward --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=9_Sleep_Deprivation --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=10_Naturalistic --model=NB --spline_degree=3 --half_interval_shift=False
+
+run.py --gpus=0 --dataset=11_Problem_Solving --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=12_Emotion --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=13_Cannabis_Use --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=14_Nicotine_Use --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=15_Frontal_Pole_CBP --model=NB --spline_degree=3 --half_interval_shift=False
+
+run.py --gpus=0 --dataset=16_Face_Perception --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=17_Nicotine_Administration --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=18_Executive_Function --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=19_Finger_Tapping --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=20_n-Back --model=NB --spline_degree=3 --half_interval_shift=False
+
+
+
+
+run.py --gpus=0 --dataset=1_Social_Processing --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=2_PTSD --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=3_Substance_Use --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=4_Dementia --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=5_Cue_Reactivity --model=NB --spline_degree=3 --half_interval_shift=False
+
+run.py --gpus=0 --dataset=6_Emotion_Regulation --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=7_Decision_Making --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=8_Reward --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=9_Sleep_Deprivation --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=10_Naturalistic --model=NB --spline_degree=3 --half_interval_shift=False
+
+run.py --gpus=0 --dataset=11_Problem_Solving --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=12_Emotion --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=13_Cannabis_Use --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=14_Nicotine_Use --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=15_Frontal_Pole_CBP --model=NB --spline_degree=3 --half_interval_shift=False
+
+run.py --gpus=0 --dataset=16_Face_Perception --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=17_Nicotine_Administration --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=18_Executive_Function --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=19_Finger_Tapping --model=NB --spline_degree=3 --half_interval_shift=False
+run.py --gpus=0 --dataset=20_n-Back --model=NB --spline_degree=3 --half_interval_shift=False
